@@ -1,0 +1,14 @@
+C:\Temp\projetos\Projeto de Celular dio\bin\Debug\net8.0\Projeto de Celular dio.exe
+C:\Temp\projetos\Projeto de Celular dio\bin\Debug\net8.0\Projeto de Celular dio.deps.json
+C:\Temp\projetos\Projeto de Celular dio\bin\Debug\net8.0\Projeto de Celular dio.runtimeconfig.json
+C:\Temp\projetos\Projeto de Celular dio\bin\Debug\net8.0\Projeto de Celular dio.dll
+C:\Temp\projetos\Projeto de Celular dio\bin\Debug\net8.0\Projeto de Celular dio.pdb
+C:\Temp\projetos\Projeto de Celular dio\obj\Debug\net8.0\Projeto de Celular dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\projetos\Projeto de Celular dio\obj\Debug\net8.0\Projeto de Celular dio.AssemblyInfoInputs.cache
+C:\Temp\projetos\Projeto de Celular dio\obj\Debug\net8.0\Projeto de Celular dio.AssemblyInfo.cs
+C:\Temp\projetos\Projeto de Celular dio\obj\Debug\net8.0\Projeto de Celular dio.csproj.CoreCompileInputs.cache
+C:\Temp\projetos\Projeto de Celular dio\obj\Debug\net8.0\Projeto de Celular dio.dll
+C:\Temp\projetos\Projeto de Celular dio\obj\Debug\net8.0\refint\Projeto de Celular dio.dll
+C:\Temp\projetos\Projeto de Celular dio\obj\Debug\net8.0\Projeto de Celular dio.pdb
+C:\Temp\projetos\Projeto de Celular dio\obj\Debug\net8.0\Projeto de Celular dio.genruntimeconfig.cache
+C:\Temp\projetos\Projeto de Celular dio\obj\Debug\net8.0\ref\Projeto de Celular dio.dll
